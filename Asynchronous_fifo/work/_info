@@ -1,0 +1,56 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/hp/Desktop/cg/Memory/asynchronous_fifo
+vAsync_fifo
+Z1 !s110 1689702110
+!i10b 1
+!s100 <;KTd9_d[_8zZc[dEcJE[1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IjK9c8<95]g?_i3;M1Uc]N0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1689702029
+8async_fifo.v
+Fasync_fifo.v
+!i122 2
+L0 1 105
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1689702110.000000
+!s107 async_fifo.v|tb_Async_fifo.v|
+Z6 !s90 -reportprogress|300|tb_Async_fifo.v|
+!i113 1
+Z7 tCvgOpt 0
+n@async_fifo
+vtestbench
+R1
+!i10b 1
+!s100 ?CX5lab=JSngzZ^R]5Bz_3
+R2
+I]nUT9?2`Ij7d_Gio2B=j70
+R3
+R0
+w1689702100
+8tb_Async_fifo.v
+Ftb_Async_fifo.v
+!i122 2
+L0 3 50
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 async_fifo.v|tb_Async_fifo.v|
+R6
+!i113 1
+R7
